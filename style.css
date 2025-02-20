@@ -1,0 +1,38 @@
+.button1 {
+	background-color: #21295c;
+	color: #ffd07b;
+	font-family: monospace;
+	padding: 10px;
+	border-radius: 25px;
+}
+
+body {
+	font: monospace;
+	background-image: url(https://www.shutterstock.com/shutterstock/videos/22399453/thumb/1.jpg?ip=x480);
+	color: #b1740f;
+
+
+	}
+
+h1 {
+	color: #ffd07b;
+	font-family: monospace;
+}
+
+p {
+	font-family: monospace;
+}
+
+label {
+	font-family: monospace;
+}
+
+.container_1 {
+	margin-top: 10px;
+	padding: 25px;
+	background-color:#ffd07b;
+	color:#b1740f;
+	border-radius: 10px;
+	width: 500px;
+	height: 250px;
+}
